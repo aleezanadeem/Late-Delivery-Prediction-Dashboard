@@ -119,8 +119,8 @@ with tab2:
 
     st.markdown(
         """
-        This simulator uses the **Multi-Layer Perceptron (MLP)** model — the
-        **best-performing model** in this study — to estimate whether an order
+        This simulator uses the **Multi-Layer Perceptron (MLP)** model the
+        **best-performing model** to estimate whether an order
         is likely to be delivered late *before dispatch*.
 
         Adjust the key operational factors below to explore different delivery scenarios.
@@ -279,3 +279,4 @@ with tab3:
         "DataCo to reduce late deliveries, improve customer satisfaction, "
         "and optimise fulfilment efficiency."
     )
+
